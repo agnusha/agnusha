@@ -1,4 +1,3 @@
 ### Hi 👋
 
-<div class="github-widget" data-username="agnusha"></div>
-<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
+![Agnusha's Github Stats](https://github-readme-stats.vercel.app/api?username=agnusha&show_icons=true&theme=radical)
